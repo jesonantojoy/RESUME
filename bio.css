@@ -1,0 +1,28 @@
+.a{
+    margin-top:19px;
+    font-size:23px;
+}
+.pic img{
+    width:100px;
+    height:150px;
+    margin-left:1363px;
+    margin-top:-121px;
+}
+table,th,td{
+    border: 2px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+tr{
+    width:20px;
+}
+hr{
+    border:solid 2px solid black;
+}
+h5{
+    font-size: 23px;
+}
+#picture img {
+    width:100px;
+    height:200px;
+}
